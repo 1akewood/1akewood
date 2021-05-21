@@ -1,5 +1,5 @@
 <!-- ### Handshake -->
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=1akewood&fontSize=70&animation=twinkling)
+<!-- ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=1akewood&fontSize=70&animation=twinkling) -->
 
 <!-- *** -->
 
@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <br>
 
 <p align="center">
@@ -38,8 +39,7 @@ Here are some ideas to get you started:
 
 <h4 align="center"><a href="https://github.com/Ileriayo/markdown-badges">Tech Stack</a></h4>
 
-<!--
-<p align="center"> Techs that I've used at least once </p> -->
+<p align="center"> Techs that I've used at least once </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
@@ -77,7 +77,7 @@ Here are some ideas to get you started:
   <a href="mailto:20160658@gm.hannam.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=plastic&logo=Gmail&logoColor=white&link=20160658@gm.hannam.ac.kr"/>   </a>
 </p>
 
-
+-->
 <!--
 [![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/uLR1RNqJ1Mw?t=0s)
 -->
