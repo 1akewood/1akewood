@@ -1,7 +1,7 @@
 <!-- 안녕하세요. 한남대학교 컴퓨터공학과에서 4학년 재학 중인 학생입니다. 앞으로의 이력은 Linkedin 에서 확인하실 수 있습니다.-->
 
 <!-- ### Handshake -->
-<!-- ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=1akewood&fontSize=70&animation=twinkling) -->
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=1akewood&fontSize=70&animation=twinkling)
 
 <!-- *** -->
 
