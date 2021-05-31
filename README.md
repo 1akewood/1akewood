@@ -21,12 +21,15 @@ Here are some ideas to get you started:
 -->
 <br>
 
+<!--
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=1akewood&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
   </a>
 </p>
+-->
 
+<!--
 <br>
 
 <p align="center">
@@ -67,7 +70,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/elasticsearch-005571?style=plastic&logo=elasticsearch&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
 </p>
-
+-->
 <br>
 
 <h4 align="center"> Contact</h4>
