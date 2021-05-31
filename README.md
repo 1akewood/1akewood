@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 </p>
 -->
 
-<!--
 <br>
 
 <p align="center">
@@ -37,7 +36,7 @@ Here are some ideas to get you started:
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1akewood&layout=compact&langs_count=10&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
   </a>
 </p>
-
+<!--
 <br>
 
 <h4 align="center"><a href="https://github.com/Ileriayo/markdown-badges">Tech Stack</a></h4>
@@ -70,9 +69,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/elasticsearch-005571?style=plastic&logo=elasticsearch&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
 </p>
--->
-<br>
 
+<br>
+-->
 <h4 align="center"> Contact</h4>
 <p align="center">
   <a href="https://velog.io/@1akewood"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=plastic&logo=Vimeo&logoColor=white&link=https://velog.io/@1akewood"/></a>&nbsp
