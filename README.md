@@ -7,7 +7,7 @@
 ### Web Server Programmer
 
 - Web server programmer in korea web industry.
-- I have made some many online game, mobile game, web.
+- I try to develop a system that can operate more reliably even if the service performs the same function.
 - I have expirience also to game client, game server, web frontend, Amazon Web Service platform, GCP...
 
 ### Interest
