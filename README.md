@@ -15,7 +15,7 @@
 - Asynchrous programming (Multithread, Pararell, Async-await and more)
 - Statistics, Measure, Coverage.
 - Want to more than before improvement all things.
-<br><details>
+<details>
 <summary>Past Interest</summary>
 <div markdown="1">
 
