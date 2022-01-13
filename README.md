@@ -1,14 +1,14 @@
 <div align=center>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F1akewood)](https://hits.seeyoufarm.com) 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssavassava)](https://hits.seeyoufarm.com) 
 
 </div>
 
 ### Web Server Programmer
 
-- Game server programmer in korea web industry.
+- Web server programmer in korea web industry.
 - I have made some many online game, mobile game, web.
-- I have expirience also to game client, web frontend, web backend, platform development.
+- I have expirience also to game client, game server, web frontend, Amazon Web Service platform, GCP...
 
 ### Interest
 
@@ -30,10 +30,10 @@
 
 <div align=center>
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://1akewood.github.io/)](https://1akewood.github.io/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elky-96299bb1//)](https://www.linkedin.com/in/elky-96299bb1/) 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ssavassava.github.io/)](https://ssavassava.github.io/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sangwoo-kang-1b00b6214/)](https://www.linkedin.com/in/sangwoo-kang-1b00b6214/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sangwoo98.kang@gmail.com)](mailto:sangwoo98.kang@gmail.com)
 
 </div>
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=1akewood)](https://github.com/1akewood)
+[![github stats](https://github-readme-stats.vercel.app/api?username=ssavassava)](https://github.com/ssavassava)
