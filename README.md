@@ -20,10 +20,10 @@
 <div markdown="1">
 <br/>
 
-|제목|내용|
+|Title|Content|
 |--|--|
-|1|1|
-|2|10|
+|HTTP Protocol|HTTP 1.1, HTTP2, QUIC, HTTP3|
+|WebServer and WAS|recognize difference between those|
 
 </div>
 </details>
