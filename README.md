@@ -8,7 +8,7 @@
 
 - Web server programmer in korea web industry.
 - I try to develop a system that can operate more reliably even if the service performs the same function.
-- I have expirience also to game client, game server, web frontend, Amazon Web Service platform, GCP...
+- I have expirience also to web frontend, web backend, game client, game server, Amazon Web Service platform, GCP...
 
 ### Interest
 
