@@ -15,18 +15,6 @@
 - Asynchrous programming (Multithread, Pararell, Async-await and more)
 - Statistics, Measure, Coverage.
 - Want to more than before improvement all things.
-<details>
-<summary>Past Interest</summary>
-<div markdown="1">
-<br/>
-
-|Title|Content|
-|--|--|
-|HTTP Protocol|HTTP 1.1, HTTP2, QUIC, HTTP3|
-|WebServer and WAS|recognize difference between those|
-
-</div>
-</details>
 
 <div align=center>
 
