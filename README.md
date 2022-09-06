@@ -1,6 +1,6 @@
 <div align=center>
  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssavassava&count_bg=%233C92C0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssavassava&count_bg=%2376BFE6&title_bg=%237D7D79&icon=&icon_color=%23E7E7E7&title=view&edge_flat=true)](https://hits.seeyoufarm.com)
 
 </div>
 
@@ -8,7 +8,7 @@
 
 - Web server programmer in korea web industry.
 - I try to develop a system that can operate more reliably even if the service performs the same function.
-- I have experience also to web frontend, web backend, game client, game server, Amazon Web Service platform, GCP, others
+- I have experience also to web frontend, web backend, game client, game server, Amazon Web Service platform, GCP, others.
 
 ### Interest
 
