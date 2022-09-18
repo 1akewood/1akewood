@@ -25,4 +25,4 @@
 
 </div>
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=edd1e-dev)](https://github.com/edd1e-dev)
+<!-- [![github stats](https://github-readme-stats.vercel.app/api?username=edd1e-dev)](https://github.com/edd1e-dev) -->
